@@ -1,3 +1,7 @@
-global.auto_init_enabled = 1
-global.auto_kill_enabled = 1
-global.auto_terminate_message = "Test message"
+{
+	"global" : {
+		"auto_init_enabled" : 1,
+		"auto_kill_enabled" : 1,
+		"auto_terminate_message" : 1
+	}
+}
